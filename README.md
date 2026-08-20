@@ -1,4 +1,4 @@
-# Front End for my IOT project about smart farming.
+# Frontend for [my IOT project backend](https://github.com/CKMPeter/IOT_Smart_Farming_BE) about smart farming.
 ## Frameworks and technologies
 - NODE & npm
 - REACT.JS
